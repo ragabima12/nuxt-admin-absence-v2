@@ -1,0 +1,11 @@
+// Set your colors
+$primary: #0066ff;
+$info: #0f77ee;
+$link: #ff9900;
+$footer-background-color: #2c2f34;
+$link-hover: $primary;
+
+$input-background-color: #f3f3f3;
+
+@import "~bulma";
+@import "~buefy/src/scss/buefy";
